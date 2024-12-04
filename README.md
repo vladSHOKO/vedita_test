@@ -4,6 +4,8 @@
 
 ```
 docker compose up -d
+npm install
+composer install
 ```
 
 Также, необходимо выполнить SQL запрос для создания таблицы
